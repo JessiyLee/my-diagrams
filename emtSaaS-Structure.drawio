@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T03:58:44.699Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="MHtx1b3oLDJDgIlKnTBk" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T03:59:57.583Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="qZuETVuDXQ2u8GUWwWRF" version="14.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -249,6 +249,12 @@
             <mxPoint x="315" y="261" as="sourcePoint" />
             <mxPoint x="210.4000000000001" y="313.75" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p3nEx2FxZ4yJWkLtqvik-56" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/data_services.svg;strokeColor=#000000;strokeWidth=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="342" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3nEx2FxZ4yJWkLtqvik-57" value="Redis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="675" y="402" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
